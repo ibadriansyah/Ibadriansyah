@@ -1,9 +1,19 @@
-
----
-
-<!-- Banner Animasi Atas -->
+<!-- Animation Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7f7&height=200&section=header&text=Halo%20Saya%20ibad!&fontSize=40&fontColor=0d1117&animation=fadeIn" />
+</p>
+
+<!-- Translate Buttons -->
+<p align="center">
+  <a href="https://translate.google.com/translate?hl=id&sl=id&tl=en&u=https://github.com/Ibadriansyah">
+    <img src="https://img.shields.io/badge/🌐_English-00f7f7?style=flat&logoColor=white"/>
+  </a>
+  <a href="https://translate.google.com/translate?hl=id&sl=id&tl=zh-CN&u=https://github.com/Ibadriansyah">
+    <img src="https://img.shields.io/badge/🌐_中文-00f7f7?style=flat&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ibadriansyah">
+    <img src="https://img.shields.io/badge/🌐_Indonesia-00f7f7?style=flat&logoColor=white"/>
+  </a>
 </p>
 
 <!-- Badge Visitor & Follower -->
@@ -40,6 +50,7 @@
 ---
 
 <p align="center">
+  <a href="https://www.instagram.com/USERNAME_INSTAGRAM_KAMU"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/DabiHaysnair"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
 </p>
 
