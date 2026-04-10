@@ -21,7 +21,7 @@
 
 ### 📋 Quick Summary
 * 🔭 **Kernel Developer** | Eksplorasi sistem Android adalah jalan ninja saya.
-* 🎯 **Target** | Berproses menjadi Full Stack Developer yang handal.
+* 🎯 **Target** | Berproses menjadi Full Stack Developer (Kalo Jadi🫵🤣)
 * 💤 **Hobi** | Menghargai waktu istirahat (Tidur) untuk performa koding maksimal.
 
 ---
