@@ -20,16 +20,16 @@
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" /> Professional Profile
-* 🔭 **Kernel Developer** | Fokus pada stabilitas, keamanan, dan optimasi sistem Android tingkat rendah.
-* 🎯 **Meticulous Developer** | Berkomitmen pada penulisan kode yang rapi, modular, dan mengikuti standar *Clean Code*.
-* 🛡️ **Workflow Integrity** | Memastikan setiap implementasi fitur baru tidak merusak alur kerja atau stabilitas sistem yang ada.
+* 🔭 **Kernel Developer** | Fokus pada stabilitas, keamanan, dan optimasi sistem Android tingkat rendah[cite: 1].
+* 🎯 **Meticulous Developer** | Berkomitmen pada penulisan kode yang rapi, modular, dan mengikuti standar *Clean Code*[cite: 1].
+* 🛡️ **Workflow Integrity** | Memastikan setiap implementasi fitur baru tidak merusak alur kerja atau stabilitas sistem yang ada[cite: 1].
 
 ---
 
 ### 🛠️ Technical Excellence
-* **Clean Architecture:** Mengutamakan penulisan kode yang modular dan mudah dipelihara tanpa merusak alur kerja.
-* **System Integrity:** Berpengalaman dalam menjaga stabilitas sistem dan melakukan debugging secara teliti.
-* **Workflow Mastery:** Penggunaan Git yang disiplin dan dokumentasi teknis yang rapi.
+* **Clean Architecture:** Mengutamakan penulisan kode yang modular dan mudah dipelihara tanpa merusak alur kerja[cite: 1].
+* **System Integrity:** Berpengalaman dalam menjaga stabilitas sistem dan melakukan debugging secara teliti[cite: 1].
+* **Workflow Mastery:** Penggunaan Git yang disiplin dan dokumentasi teknis yang rapi[cite: 1].
 
 ---
 
