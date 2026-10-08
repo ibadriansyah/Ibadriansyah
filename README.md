@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,30&height=220&section=header&text=IBAD%20RIANSYAH&fontSize=40&fontColor=D0BCFF&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,30&height=220&section=header&text=IBAD&fontSize=40&fontColor=D0BCFF&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
