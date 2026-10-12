@@ -29,9 +29,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibadriansyah&theme=transparent&stroke=D0BCFF&ring=D0BCFF&fire=D0BCFF&currStreakNum=D0BCFF&sideNums=E6E1E5&sideLabels=E6E1E5&dates=E6E1E5&background=1C1B1F&border=49454F&border_radius=10" height="165" alt="GitHub Streak" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibadriansyah&bg_color=1C1B1F&color=D0BCFF&line=D0BCFF&point=EADDFF&area=true&hide_border=true&border_radius=10" width="85%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibadriansyah&bg_color=1C1B1F&color=D0BCFF&line=D0BCFF&point=EADDFF&area=true&hide_border=true&border_radius=10&v=1" width="85%" alt="Activity Graph" />
 </p>
+
 
 <br/>
 
