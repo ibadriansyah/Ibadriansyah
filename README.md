@@ -1,52 +1,18 @@
-<div align="center">
-  <img src="https://github.com/ibadriansyah.png" width="130" style="border-radius: 50%; border: 3px solid #D0BCFF;" alt="IBAD"/>
-  
-  <h1>Hi, I'm IBAD </h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&color=D0BCFF&center=true&vCenter=true&width=500&lines=Kernel+Enthusiast;Full+Stack+Developer;Android+System+Developer;Minimalism+Lover;" alt="Typing SVG" />
-  
-  <br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=ibadriansyah&label=PROFILE+VIEWS&color=D0BCFF&style=for-the-badge&labelColor=1C1B1F" alt="visitor badge"/>
-  <a href="https://github.com/ibadriansyah?tab=followers">
-    <img src="https://img.shields.io/github/followers/ibadriansyah?label=FOLLOWERS&style=for-the-badge&color=D0BCFF&labelColor=1C1B1F" alt="followers badge"/>
-  </a>
-</div>
-
-<br/>
-
-###  Professional Profile
-
-- **Kernel Developer** — Focused on stability, security, and low-level Android system optimization.
-- **Meticulous Developer** — Committed to writing clean, modular code adhering to strict Clean Code standards.
-
-<br/>
-
-###  GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibadriansyah&show_icons=true&theme=transparent&title_color=D0BCFF&icon_color=D0BCFF&text_color=E6E1E5&bg_color=1C1B1F&border_color=49454F&border_radius=10" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibadriansyah&theme=transparent&stroke=D0BCFF&ring=D0BCFF&fire=D0BCFF&currStreakNum=D0BCFF&sideNums=E6E1E5&sideLabels=E6E1E5&dates=E6E1E5&background=1C1B1F&border=49454F&border_radius=10" height="165" alt="GitHub Streak" />
-</p>
+##  About Me:
+Sometimes joking aroun<br>sometimes focused on what I enjoy doing.
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibadriansyah&bg_color=1C1B1F&color=D0BCFF&line=D0BCFF&point=EADDFF&area=true&hide_border=true&border_radius=10&v=1" width="85%" alt="Activity Graph" />
-</p>
+##  Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibdrnsyhh) 
 
+## Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
+## GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ibadriansyah&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ibadriansyah&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ibadriansyah&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>
+---
+[![](https://komarev.com/ghpvc/?username=ibadriansyah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###  Connect With Me
-
-<p align="center">
-  <a href="https://www.instagram.com/ibdrnsyhh">
-    <img src="https://img.shields.io/badge/Instagram-1C1B1F?style=for-the-badge&logo=instagram&logoColor=D0BCFF" alt="Instagram"/>
-  </a>
-  <a href="https://t.me/DabiHaysnair">
-    <img src="https://img.shields.io/badge/Telegram-1C1B1F?style=for-the-badge&logo=telegram&logoColor=D0BCFF" alt="Telegram"/>
-  </a>
-  <a href="https://github.com/ibadriansyah">
-    <img src="https://img.shields.io/badge/GitHub-1C1B1F?style=for-the-badge&logo=github&logoColor=D0BCFF" alt="GitHub"/>
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
